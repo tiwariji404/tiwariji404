@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+# About Me:
 I’m a final-year Computer Science & Engineering student with a focus on React Native, React.js, and JavaScript. I’ve been working on personal projects to strengthen my development skills and get a better understanding of how real-world applications are built. <br><br>My current focus is on improving my frontend and mobile development skills, writing better code, and understanding the concepts behind the technologies I use. Along with development, I regularly work on Data Structures & Algorithms to improve my problem-solving skills. I’m also currently exploring the basics of AI/ML and gradually building my understanding of the field. Beyond development, I’m interested in the tech community and enjoy connecting with developers, exchanging ideas, and learning from others. <br><br>I’m open to opportunities where I can work with a team, contribute to real-world projects, and continue developing my skills as a software developer.
 
 
