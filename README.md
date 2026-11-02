@@ -1,6 +1,7 @@
 ## Hi there, I'm [Om Tiwari] 👋
 
-I’m a final-year Computer Science & Engineering student with a core focus on **React Native, React.js, and JavaScript**. I build mobile and web applications to solve real-world problems and understand how scalable systems are built.
+I’m a final-year Computer Science & Engineering student with a core focus on **React Native, React.js, and JavaScript**.
+I build mobile and web applications to solve real-world problems and understand how scalable systems are built.
 
 I am actively looking for opportunities to work with a team, contribute to real-world projects, and grow as a software developer.
 
