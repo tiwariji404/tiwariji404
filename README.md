@@ -2,7 +2,7 @@
 
 I’m a final-year BTech CSE student with a core focus on **React Native, React.js, and JavaScript**.
 
-I build mobile and web applications.
+I’m currently working as a mobile and web applications developer.
 
 I am actively looking for opportunities to work with a team,contribute to real-world projects, and grow as a software developer.
 
